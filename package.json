@@ -1,0 +1,16 @@
+{
+  "name": "js-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asyncmap.js",
+  "scripts": {
+    "test": "mocha spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
